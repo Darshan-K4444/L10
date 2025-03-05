@@ -13,6 +13,7 @@ else
 printf("%d",b);
 if (a==b)
 printf("d",a);
-print("%d%d",a,b);
+print("%d%d",a,b)
+w;
 return 0;
 }
